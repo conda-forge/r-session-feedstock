@@ -1,11 +1,11 @@
-About r-session
-===============
+About r-session-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-session-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=session
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-session-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utility functions for interacting with R processes from external programs. This package includes functions to save and restore session information (including loaded packages, and attached data objects), as well as functions to evaluate strings containing R commands and return the printed results or an execution transcript.
 
